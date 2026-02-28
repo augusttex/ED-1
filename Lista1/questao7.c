@@ -28,6 +28,7 @@ int main()
     if (*x > *y) { t = *x; *x = *y; *y = t; }
 
     printf("Valores ordenados: %d %d %d\n", *x, *y, *z);
+    printf("Enderecos: %p %p %p\n", x, y, z);
 
     return 0;
 }
