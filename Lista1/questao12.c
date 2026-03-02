@@ -13,14 +13,14 @@ Exercício: 11
 
 int main()
 {
-   float v[5];
+   int v[5];
         for(int i = 0; i < 5; i++){
             printf("\nDigite o valor da posicao [%d]: ", i + 1);
-            scanf("%f", &v[i]);}
+            scanf("%d", &v[i]);}
         for(int i = 0; i < 5; i++){
-            float *x = &v[i];
+            int *x = &v[i];
             if(*x % 2 == 0){
-                printf("Endereco da posicao [%d] (par): %p\n", i + 1, x);
+                printf("Endereco da posicao [%d] (par): %p || Valor: %d\n", i + 1, x, *x);
             }
         }
     return 0;
