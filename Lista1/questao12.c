@@ -2,7 +2,7 @@
 Nome: Augusto Castilho
 Matrícula: 54880
 Lista: 1
-Exercício: 11
+Exercício: 12
 */
 
 #include<stdio.h>
@@ -24,4 +24,6 @@ int main()
             }
         }
     return 0;
+
+
 }
