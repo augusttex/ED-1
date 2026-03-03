@@ -2,7 +2,7 @@
 Nome: Augusto Castilho
 Matrícula: 54880
 Lista: 1
-Exercício: 2
+Exercício: 7
 */
 
 #include<stdio.h>
