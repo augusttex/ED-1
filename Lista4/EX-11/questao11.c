@@ -12,7 +12,7 @@ para este exercício, escrever
 5 idoso
 6 geral
 7 idoso
- (ou algum outro) e então colocar "." e dar entender
+ (ou algum outro) e então colocar "." e dar enter.
 
 */
 
