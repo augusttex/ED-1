@@ -3,7 +3,6 @@ Matrícula: 54880
 Lista: 7
 Exercício: 11
 
-Funcao: Obtem o espelho de uma arvore (troca sub-arvore direita pela esquerda)
 
 */ 
 
