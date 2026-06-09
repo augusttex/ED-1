@@ -4,6 +4,8 @@ Lista: 7
 Exercício: 9
 
 
+
+
 */ 
 
 #include <stdio.h>
